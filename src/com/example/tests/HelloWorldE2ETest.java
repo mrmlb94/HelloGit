@@ -1,12 +1,9 @@
 package com.example.tests;
 
-
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 import com.example.HelloWorld;
 
 public class HelloWorldE2ETest {
